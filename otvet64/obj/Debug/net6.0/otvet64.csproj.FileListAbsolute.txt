@@ -1,0 +1,15 @@
+C:\Users\Елена\Documents\GB\lek9\otvet64\bin\Debug\net6.0\otvet64.exe
+C:\Users\Елена\Documents\GB\lek9\otvet64\bin\Debug\net6.0\otvet64.deps.json
+C:\Users\Елена\Documents\GB\lek9\otvet64\bin\Debug\net6.0\otvet64.runtimeconfig.json
+C:\Users\Елена\Documents\GB\lek9\otvet64\bin\Debug\net6.0\otvet64.dll
+C:\Users\Елена\Documents\GB\lek9\otvet64\bin\Debug\net6.0\otvet64.pdb
+C:\Users\Елена\Documents\GB\lek9\otvet64\obj\Debug\net6.0\otvet64.csproj.AssemblyReference.cache
+C:\Users\Елена\Documents\GB\lek9\otvet64\obj\Debug\net6.0\otvet64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Documents\GB\lek9\otvet64\obj\Debug\net6.0\otvet64.AssemblyInfoInputs.cache
+C:\Users\Елена\Documents\GB\lek9\otvet64\obj\Debug\net6.0\otvet64.AssemblyInfo.cs
+C:\Users\Елена\Documents\GB\lek9\otvet64\obj\Debug\net6.0\otvet64.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Documents\GB\lek9\otvet64\obj\Debug\net6.0\otvet64.dll
+C:\Users\Елена\Documents\GB\lek9\otvet64\obj\Debug\net6.0\refint\otvet64.dll
+C:\Users\Елена\Documents\GB\lek9\otvet64\obj\Debug\net6.0\otvet64.pdb
+C:\Users\Елена\Documents\GB\lek9\otvet64\obj\Debug\net6.0\otvet64.genruntimeconfig.cache
+C:\Users\Елена\Documents\GB\lek9\otvet64\obj\Debug\net6.0\ref\otvet64.dll
